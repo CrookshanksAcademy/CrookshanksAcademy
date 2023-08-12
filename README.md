@@ -42,6 +42,6 @@ This project is licensed under the [MIT License](LICENSE), allowing you to freel
 
 ## Contact
 
-If you have any questions, suggestions, or feedback, feel free to reach out to us at [contact@crookshanksacademy.com](mailto:contact@crookshanksacademy.com).
+If you have any questions, suggestions, or feedback, feel free to reach out to us at [dhruvbadaya@gmail.com](mailto:dhruvbadaya@gmail.com).
 
 Let's collaborate, innovate, and empower education together! 🌟
